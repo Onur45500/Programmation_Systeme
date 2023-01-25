@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\onura\\source\\repos\\Programamtion_Systeme\\Programamtion_Systeme\\Programamtion_Systeme.csproj": {}
+    "C:\\Users\\sigma\\Source\\Repos\\Programmation_Systeme\\Programamtion_Systeme\\Programamtion_Systeme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\onura\\source\\repos\\Programamtion_Systeme\\Programamtion_Systeme\\Programamtion_Systeme.csproj": {
+    "C:\\Users\\sigma\\Source\\Repos\\Programmation_Systeme\\Programamtion_Systeme\\Programamtion_Systeme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\onura\\source\\repos\\Programamtion_Systeme\\Programamtion_Systeme\\Programamtion_Systeme.csproj",
+        "projectUniqueName": "C:\\Users\\sigma\\Source\\Repos\\Programmation_Systeme\\Programamtion_Systeme\\Programamtion_Systeme.csproj",
         "projectName": "Programamtion_Systeme",
-        "projectPath": "C:\\Users\\onura\\source\\repos\\Programamtion_Systeme\\Programamtion_Systeme\\Programamtion_Systeme.csproj",
-        "packagesPath": "C:\\Users\\onura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\onura\\source\\repos\\Programamtion_Systeme\\Programamtion_Systeme\\obj\\",
+        "projectPath": "C:\\Users\\sigma\\Source\\Repos\\Programmation_Systeme\\Programamtion_Systeme\\Programamtion_Systeme.csproj",
+        "packagesPath": "C:\\Users\\sigma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sigma\\Source\\Repos\\Programmation_Systeme\\Programamtion_Systeme\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\onura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sigma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
